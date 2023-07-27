@@ -37,9 +37,6 @@ class Solution {
         start.val = left.val;
         left.val = temp;
 
-
-
-
         return dummy.next;
     }
 }
