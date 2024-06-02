@@ -33,3 +33,11 @@ class Solution {
         
     }
 }
+/**
+Learnings :
+1 .  When I tried to convert s = "dog cat cat dog" to character array using toCharArray i was getting sArry = [d,o,g,c,a,t] so i split the s on space
+
+2. used two hashmap because if a- dog b - dog then it will go wrong
+we need both the ket to value and value to key pair unique.
+
+ */
