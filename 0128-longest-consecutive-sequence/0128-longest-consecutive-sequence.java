@@ -1,28 +1,22 @@
 class Solution {
     public int longestConsecutive(int[] nums) {
-       int longestConsLen = 0;
-       Map<Integer, Boolean> map = new HashMap<>();
-       for(int num : nums){
-           map.put(num,Boolean.FALSE);
-       } 
+        Set<Integer> numSet = new HashSet<>();
+        int longestStreak = 0;
         for(int num : nums){
-            int currLen = 1;
-            // check the consecutive numbers in forward direction
-            int nextNum = num + 1;
-            while(map.containsKey(nextNum) && map.get(nextNum) == false){
-                currLen++;
-                map.put(nextNum,Boolean.TRUE);
-                nextNum++;
+            numSet.add(num);
+        }
+        for(int num : numSet){
+            if(!numSet.contains(num - 1)){
+                int currentNum = num;
+                int currentStreak = 1;
+
+                while(numSet.contains(currentNum + 1)){
+                    currentNum += 1;
+                    currentStreak += 1;
+                }
+                longestStreak = Math.max(longestStreak , currentStreak);
             }
-            // check the consecutive numbers in backward direction
-             nextNum = num - 1;
-             while(map.containsKey(nextNum) && map.get(nextNum) == false){
-                currLen++;
-                map.put(nextNum,Boolean.TRUE);
-                nextNum--;
-            }
-            longestConsLen = Math.max(longestConsLen ,currLen);
-        } 
-        return longestConsLen;
+        }
+        return longestStreak;
     }
 }
