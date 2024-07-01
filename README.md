@@ -10,3 +10,15 @@ To explore more of my LeetCode solutions and track my progress, you can visit my
 Feel free to connect with me on LeetCode, and let's tackle coding challenges together! 💪
 
 Happy coding! 😄
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aishwarya11roy/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aishwarya11roy/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+<!---LeetCode Topics End-->
