@@ -21,6 +21,7 @@ Happy coding! 😄
 | [0189-rotate-array](https://github.com/Aishwarya11roy/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Aishwarya11roy/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aishwarya11roy/LeetCode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +29,7 @@ Happy coding! 😄
 | [0088-merge-sorted-array](https://github.com/Aishwarya11roy/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Aishwarya11roy/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aishwarya11roy/LeetCode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -37,10 +39,12 @@ Happy coding! 😄
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aishwarya11roy/LeetCode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aishwarya11roy/LeetCode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -50,4 +54,5 @@ Happy coding! 😄
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Aishwarya11roy/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Aishwarya11roy/LeetCode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
