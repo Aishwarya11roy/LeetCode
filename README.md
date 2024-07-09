@@ -59,4 +59,20 @@ Happy coding! 😄
 | [0088-merge-sorted-array](https://github.com/Aishwarya11roy/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Aishwarya11roy/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Aishwarya11roy/LeetCode/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Aishwarya11roy/LeetCode/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Aishwarya11roy/LeetCode/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Aishwarya11roy/LeetCode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
