@@ -39,6 +39,7 @@ Happy coding! 😄
 | ------- |
 | [0189-rotate-array](https://github.com/Aishwarya11roy/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Aishwarya11roy/LeetCode/tree/master/0268-missing-number) |
+| [2187-vowels-of-all-substrings](https://github.com/Aishwarya11roy/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ Happy coding! 😄
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aishwarya11roy/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Aishwarya11roy/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aishwarya11roy/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2187-vowels-of-all-substrings](https://github.com/Aishwarya11roy/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 ## Queue
 |  |
 | ------- |
@@ -108,4 +110,12 @@ Happy coding! 😄
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aishwarya11roy/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2187-vowels-of-all-substrings](https://github.com/Aishwarya11roy/LeetCode/tree/master/2187-vowels-of-all-substrings) |
+## Combinatorics
+|  |
+| ------- |
+| [2187-vowels-of-all-substrings](https://github.com/Aishwarya11roy/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->
