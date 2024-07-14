@@ -45,6 +45,7 @@ Happy coding! 😄
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aishwarya11roy/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0146-lru-cache](https://github.com/Aishwarya11roy/LeetCode/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/Aishwarya11roy/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aishwarya11roy/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -136,4 +137,16 @@ Happy coding! 😄
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Aishwarya11roy/LeetCode/tree/master/0692-top-k-frequent-words) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Aishwarya11roy/LeetCode/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Aishwarya11roy/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Aishwarya11roy/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
