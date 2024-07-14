@@ -26,6 +26,7 @@ Happy coding! 😄
 | [0283-move-zeroes](https://github.com/Aishwarya11roy/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Aishwarya11roy/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0713-subarray-product-less-than-k](https://github.com/Aishwarya11roy/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -110,6 +111,7 @@ Happy coding! 😄
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aishwarya11roy/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0713-subarray-product-less-than-k](https://github.com/Aishwarya11roy/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 ## Dynamic Programming
 |  |
 | ------- |
