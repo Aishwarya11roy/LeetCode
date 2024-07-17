@@ -107,6 +107,7 @@ Happy coding! 😄
 | [0006-zigzag-conversion](https://github.com/Aishwarya11roy/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aishwarya11roy/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/Aishwarya11roy/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0812-rotate-string](https://github.com/Aishwarya11roy/LeetCode/tree/master/0812-rotate-string) |
 | [2187-vowels-of-all-substrings](https://github.com/Aishwarya11roy/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 ## Queue
 |  |
@@ -158,4 +159,8 @@ Happy coding! 😄
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Aishwarya11roy/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Aishwarya11roy/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
