@@ -150,6 +150,7 @@ Happy coding! 😄
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Aishwarya11roy/LeetCode/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/Aishwarya11roy/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Aishwarya11roy/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Design
 |  |
@@ -167,4 +168,8 @@ Happy coding! 😄
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Aishwarya11roy/LeetCode/tree/master/0812-rotate-string) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Aishwarya11roy/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
