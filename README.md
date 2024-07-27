@@ -39,6 +39,7 @@ Happy coding! 😄
 | [0141-linked-list-cycle](https://github.com/Aishwarya11roy/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Aishwarya11roy/LeetCode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Aishwarya11roy/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Aishwarya11roy/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Aishwarya11roy/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -157,6 +158,7 @@ Happy coding! 😄
 | [0142-linked-list-cycle-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Aishwarya11roy/LeetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Aishwarya11roy/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Aishwarya11roy/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Aishwarya11roy/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Design
 |  |
@@ -178,4 +180,9 @@ Happy coding! 😄
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Aishwarya11roy/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Aishwarya11roy/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Aishwarya11roy/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
