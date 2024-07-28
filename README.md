@@ -19,6 +19,7 @@ Happy coding! 😄
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aishwarya11roy/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aishwarya11roy/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aishwarya11roy/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0054-spiral-matrix](https://github.com/Aishwarya11roy/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Aishwarya11roy/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aishwarya11roy/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Aishwarya11roy/LeetCode/tree/master/0136-single-number) |
@@ -210,9 +211,11 @@ Happy coding! 😄
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aishwarya11roy/LeetCode/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/Aishwarya11roy/LeetCode/tree/master/0463-island-perimeter) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aishwarya11roy/LeetCode/tree/master/0054-spiral-matrix) |
 | [2470-removing-stars-from-a-string](https://github.com/Aishwarya11roy/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
