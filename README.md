@@ -31,6 +31,7 @@ Happy coding! 😄
 | [0485-max-consecutive-ones](https://github.com/Aishwarya11roy/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Aishwarya11roy/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Aishwarya11roy/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Aishwarya11roy/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Happy coding! 😄
 | [0268-missing-number](https://github.com/Aishwarya11roy/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0692-top-k-frequent-words](https://github.com/Aishwarya11roy/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Aishwarya11roy/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 ## Tree
 |  |
 | ------- |
@@ -196,4 +198,8 @@ Happy coding! 😄
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Aishwarya11roy/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Aishwarya11roy/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 <!---LeetCode Topics End-->
