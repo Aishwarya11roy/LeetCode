@@ -127,6 +127,7 @@ Happy coding! 😄
 | [0692-top-k-frequent-words](https://github.com/Aishwarya11roy/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0812-rotate-string](https://github.com/Aishwarya11roy/LeetCode/tree/master/0812-rotate-string) |
 | [2187-vowels-of-all-substrings](https://github.com/Aishwarya11roy/LeetCode/tree/master/2187-vowels-of-all-substrings) |
+| [2470-removing-stars-from-a-string](https://github.com/Aishwarya11roy/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Queue
 |  |
 | ------- |
@@ -201,6 +202,7 @@ Happy coding! 😄
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Aishwarya11roy/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [2470-removing-stars-from-a-string](https://github.com/Aishwarya11roy/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -209,4 +211,8 @@ Happy coding! 😄
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Aishwarya11roy/LeetCode/tree/master/0463-island-perimeter) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/Aishwarya11roy/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
