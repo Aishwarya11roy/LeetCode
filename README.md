@@ -99,12 +99,14 @@ Happy coding! 😄
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aishwarya11roy/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aishwarya11roy/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aishwarya11roy/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Aishwarya11roy/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aishwarya11roy/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aishwarya11roy/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aishwarya11roy/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Aishwarya11roy/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/Aishwarya11roy/LeetCode/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
@@ -124,6 +126,7 @@ Happy coding! 😄
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aishwarya11roy/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aishwarya11roy/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aishwarya11roy/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Aishwarya11roy/LeetCode/tree/master/0226-invert-binary-tree) |
 ## String
 |  |
@@ -209,6 +212,7 @@ Happy coding! 😄
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aishwarya11roy/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Aishwarya11roy/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Aishwarya11roy/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Aishwarya11roy/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Greedy
