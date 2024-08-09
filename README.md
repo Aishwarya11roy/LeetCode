@@ -101,6 +101,7 @@ Happy coding! 😄
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aishwarya11roy/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Aishwarya11roy/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Aishwarya11roy/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -109,6 +110,7 @@ Happy coding! 😄
 | [0144-binary-tree-preorder-traversal](https://github.com/Aishwarya11roy/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Aishwarya11roy/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/Aishwarya11roy/LeetCode/tree/master/0463-island-perimeter) |
+| [0543-diameter-of-binary-tree](https://github.com/Aishwarya11roy/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -128,6 +130,7 @@ Happy coding! 😄
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aishwarya11roy/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Aishwarya11roy/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Aishwarya11roy/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## String
 |  |
 | ------- |
