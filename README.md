@@ -99,6 +99,7 @@ Happy coding! 😄
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aishwarya11roy/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aishwarya11roy/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aishwarya11roy/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aishwarya11roy/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Aishwarya11roy/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aishwarya11roy/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -107,6 +108,7 @@ Happy coding! 😄
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aishwarya11roy/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aishwarya11roy/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aishwarya11roy/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aishwarya11roy/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Aishwarya11roy/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/Aishwarya11roy/LeetCode/tree/master/0463-island-perimeter) |
@@ -128,6 +130,7 @@ Happy coding! 😄
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aishwarya11roy/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aishwarya11roy/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aishwarya11roy/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aishwarya11roy/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Aishwarya11roy/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Aishwarya11roy/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -158,6 +161,7 @@ Happy coding! 😄
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Aishwarya11roy/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Aishwarya11roy/LeetCode/tree/master/0198-house-robber) |
 | [2187-vowels-of-all-substrings](https://github.com/Aishwarya11roy/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 ## Combinatorics
