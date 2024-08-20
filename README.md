@@ -57,6 +57,7 @@ Happy coding! 😄
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aishwarya11roy/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Aishwarya11roy/LeetCode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Aishwarya11roy/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Aishwarya11roy/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Aishwarya11roy/LeetCode/tree/master/0268-missing-number) |
 | [2187-vowels-of-all-substrings](https://github.com/Aishwarya11roy/LeetCode/tree/master/2187-vowels-of-all-substrings) |
@@ -167,6 +168,7 @@ Happy coding! 😄
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Aishwarya11roy/LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aishwarya11roy/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Aishwarya11roy/LeetCode/tree/master/0198-house-robber) |
 | [2187-vowels-of-all-substrings](https://github.com/Aishwarya11roy/LeetCode/tree/master/2187-vowels-of-all-substrings) |
@@ -243,4 +245,8 @@ Happy coding! 😄
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aishwarya11roy/LeetCode/tree/master/0054-spiral-matrix) |
 | [2470-removing-stars-from-a-string](https://github.com/Aishwarya11roy/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Aishwarya11roy/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
