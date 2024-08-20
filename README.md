@@ -35,6 +35,7 @@ Happy coding! 😄
 | [0485-max-consecutive-ones](https://github.com/Aishwarya11roy/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Aishwarya11roy/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Aishwarya11roy/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0747-min-cost-climbing-stairs](https://github.com/Aishwarya11roy/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Aishwarya11roy/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 ## Two Pointers
 |  |
@@ -171,6 +172,7 @@ Happy coding! 😄
 | [0070-climbing-stairs](https://github.com/Aishwarya11roy/LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aishwarya11roy/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Aishwarya11roy/LeetCode/tree/master/0198-house-robber) |
+| [0747-min-cost-climbing-stairs](https://github.com/Aishwarya11roy/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [2187-vowels-of-all-substrings](https://github.com/Aishwarya11roy/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 ## Combinatorics
 |  |
