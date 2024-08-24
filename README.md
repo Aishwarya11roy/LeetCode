@@ -27,6 +27,7 @@ Happy coding! 😄
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aishwarya11roy/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Aishwarya11roy/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Aishwarya11roy/LeetCode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/Aishwarya11roy/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aishwarya11roy/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Aishwarya11roy/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -172,6 +173,7 @@ Happy coding! 😄
 | [0070-climbing-stairs](https://github.com/Aishwarya11roy/LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aishwarya11roy/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Aishwarya11roy/LeetCode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0213-house-robber-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aishwarya11roy/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [2187-vowels-of-all-substrings](https://github.com/Aishwarya11roy/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 ## Combinatorics
