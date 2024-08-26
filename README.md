@@ -59,6 +59,7 @@ Happy coding! 😄
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aishwarya11roy/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Aishwarya11roy/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Aishwarya11roy/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Aishwarya11roy/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Aishwarya11roy/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Aishwarya11roy/LeetCode/tree/master/0268-missing-number) |
@@ -170,6 +171,7 @@ Happy coding! 😄
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Aishwarya11roy/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Aishwarya11roy/LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aishwarya11roy/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Aishwarya11roy/LeetCode/tree/master/0198-house-robber) |
@@ -179,6 +181,7 @@ Happy coding! 😄
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Aishwarya11roy/LeetCode/tree/master/0062-unique-paths) |
 | [2187-vowels-of-all-substrings](https://github.com/Aishwarya11roy/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 ## Trie
 |  |
