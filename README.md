@@ -28,6 +28,7 @@ Happy coding! 😄
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aishwarya11roy/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Aishwarya11roy/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Aishwarya11roy/LeetCode/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/Aishwarya11roy/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/Aishwarya11roy/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aishwarya11roy/LeetCode/tree/master/0283-move-zeroes) |
@@ -86,6 +87,7 @@ Happy coding! 😄
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aishwarya11roy/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Aishwarya11roy/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aishwarya11roy/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Aishwarya11roy/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Aishwarya11roy/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Aishwarya11roy/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -170,6 +172,7 @@ Happy coding! 😄
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aishwarya11roy/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Aishwarya11roy/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Aishwarya11roy/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 ## Dynamic Programming
 |  |
@@ -222,6 +225,7 @@ Happy coding! 😄
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Aishwarya11roy/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Aishwarya11roy/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## String Matching
 |  |
