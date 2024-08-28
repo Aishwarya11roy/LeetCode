@@ -42,6 +42,7 @@ Happy coding! 😄
 | [0713-subarray-product-less-than-k](https://github.com/Aishwarya11roy/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aishwarya11roy/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Aishwarya11roy/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aishwarya11roy/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aishwarya11roy/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Two Pointers
 |  |
