@@ -41,6 +41,7 @@ Happy coding! 😄
 | [0713-subarray-product-less-than-k](https://github.com/Aishwarya11roy/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aishwarya11roy/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Aishwarya11roy/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aishwarya11roy/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Happy coding! 😄
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0692-top-k-frequent-words](https://github.com/Aishwarya11roy/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Aishwarya11roy/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aishwarya11roy/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Tree
 |  |
 | ------- |
@@ -176,6 +178,7 @@ Happy coding! 😄
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aishwarya11roy/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aishwarya11roy/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Aishwarya11roy/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aishwarya11roy/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Dynamic Programming
 |  |
 | ------- |
