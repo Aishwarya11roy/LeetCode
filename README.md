@@ -21,6 +21,7 @@ Happy coding! 😄
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aishwarya11roy/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Aishwarya11roy/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Aishwarya11roy/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Aishwarya11roy/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Aishwarya11roy/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aishwarya11roy/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -184,6 +185,7 @@ Happy coding! 😄
 | ------- |
 | [0062-unique-paths](https://github.com/Aishwarya11roy/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Aishwarya11roy/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Aishwarya11roy/LeetCode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aishwarya11roy/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Aishwarya11roy/LeetCode/tree/master/0198-house-robber) |
@@ -260,6 +262,7 @@ Happy coding! 😄
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aishwarya11roy/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Aishwarya11roy/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Aishwarya11roy/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/Aishwarya11roy/LeetCode/tree/master/0463-island-perimeter) |
 ## Simulation
