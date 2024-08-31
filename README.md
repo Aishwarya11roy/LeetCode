@@ -61,6 +61,7 @@ Happy coding! 😄
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Aishwarya11roy/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1894-merge-strings-alternately](https://github.com/Aishwarya11roy/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
@@ -163,6 +164,7 @@ Happy coding! 😄
 | [0680-valid-palindrome-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Aishwarya11roy/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0812-rotate-string](https://github.com/Aishwarya11roy/LeetCode/tree/master/0812-rotate-string) |
+| [1894-merge-strings-alternately](https://github.com/Aishwarya11roy/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2187-vowels-of-all-substrings](https://github.com/Aishwarya11roy/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 | [2470-removing-stars-from-a-string](https://github.com/Aishwarya11roy/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Queue
