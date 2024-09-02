@@ -45,6 +45,7 @@ Happy coding! 😄
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/Aishwarya11roy/LeetCode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Aishwarya11roy/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Aishwarya11roy/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Aishwarya11roy/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Happy coding! 😄
 | [0680-valid-palindrome-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Aishwarya11roy/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/Aishwarya11roy/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Aishwarya11roy/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Math
 |  |
 | ------- |
@@ -169,6 +171,7 @@ Happy coding! 😄
 | [0812-rotate-string](https://github.com/Aishwarya11roy/LeetCode/tree/master/0812-rotate-string) |
 | [1894-merge-strings-alternately](https://github.com/Aishwarya11roy/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2187-vowels-of-all-substrings](https://github.com/Aishwarya11roy/LeetCode/tree/master/2187-vowels-of-all-substrings) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Aishwarya11roy/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Aishwarya11roy/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Queue
 |  |
