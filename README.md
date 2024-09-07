@@ -299,4 +299,5 @@ Happy coding! 😄
 | [1390-average-selling-price](https://github.com/Aishwarya11roy/LeetCode/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Aishwarya11roy/LeetCode/tree/master/1415-students-and-examinations) |
 | [2087-confirmation-rate](https://github.com/Aishwarya11roy/LeetCode/tree/master/2087-confirmation-rate) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Aishwarya11roy/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
