@@ -284,4 +284,8 @@ Happy coding! 😄
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aishwarya11roy/LeetCode/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [1258-article-views-i](https://github.com/Aishwarya11roy/LeetCode/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
