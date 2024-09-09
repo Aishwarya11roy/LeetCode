@@ -83,6 +83,7 @@ Happy coding! 😄
 | [0141-linked-list-cycle](https://github.com/Aishwarya11roy/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Aishwarya11roy/LeetCode/tree/master/0146-lru-cache) |
+| [0242-valid-anagram](https://github.com/Aishwarya11roy/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aishwarya11roy/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aishwarya11roy/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -111,6 +112,7 @@ Happy coding! 😄
 | ------- |
 | [0075-sort-colors](https://github.com/Aishwarya11roy/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aishwarya11roy/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Aishwarya11roy/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aishwarya11roy/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Aishwarya11roy/LeetCode/tree/master/0455-assign-cookies) |
@@ -165,6 +167,7 @@ Happy coding! 😄
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aishwarya11roy/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Aishwarya11roy/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0242-valid-anagram](https://github.com/Aishwarya11roy/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aishwarya11roy/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Aishwarya11roy/LeetCode/tree/master/0692-top-k-frequent-words) |
