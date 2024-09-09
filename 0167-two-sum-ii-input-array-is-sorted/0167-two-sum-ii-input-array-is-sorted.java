@@ -1,16 +1,25 @@
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
-        int [] result = new int[2];
-        Map<Integer , Integer> map = new  HashMap<>();
-        for(int i  = 0;i<numbers.length;i++){
-            if(map.containsKey(target - numbers[i])){
-                result[1] = i+1;
-                result[0] = map.get((target - numbers[i])) + 1;
-                break;
+        /*
+        use 2 pointer technique . one pointer will be on start and another one at the end . Keep checking if the sum of nums[start] + nums[end] > target jus
+        decrese the end pouinter . if nums[start] + nums[end] < target just increase start pointer.
+        */
+        
+        int [] arr = new int[2];
+        int start = 0;
+        int end = numbers.length - 1;
+        while(start < end){
+            if(numbers[start] + numbers[end] == target){
+                arr[0] = start + 1;
+                arr[1] = end + 1;
+                return arr;
             }
-            map.put(numbers[i],i);
+            else if(numbers[start] + numbers[end] < target ){
+                start += 1;
+            }else{
+                end = end - 1;
+            }
         }
-
-        return result;
+        return arr;
     }
 }
