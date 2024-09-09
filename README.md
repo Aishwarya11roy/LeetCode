@@ -19,6 +19,7 @@ Happy coding! 😄
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aishwarya11roy/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aishwarya11roy/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aishwarya11roy/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Aishwarya11roy/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Aishwarya11roy/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Aishwarya11roy/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -81,6 +82,7 @@ Happy coding! 😄
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aishwarya11roy/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/Aishwarya11roy/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Aishwarya11roy/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Aishwarya11roy/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -277,6 +279,7 @@ Happy coding! 😄
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Aishwarya11roy/LeetCode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Aishwarya11roy/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aishwarya11roy/LeetCode/tree/master/0064-minimum-path-sum) |
