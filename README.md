@@ -42,6 +42,7 @@ Happy coding! 😄
 | [0455-assign-cookies](https://github.com/Aishwarya11roy/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Aishwarya11roy/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Aishwarya11roy/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Aishwarya11roy/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Aishwarya11roy/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Aishwarya11roy/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/Aishwarya11roy/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -94,6 +95,7 @@ Happy coding! 😄
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aishwarya11roy/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aishwarya11roy/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aishwarya11roy/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Aishwarya11roy/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Aishwarya11roy/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Aishwarya11roy/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Binary Search
@@ -272,6 +274,7 @@ Happy coding! 😄
 | [0094-binary-tree-inorder-traversal](https://github.com/Aishwarya11roy/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aishwarya11roy/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Aishwarya11roy/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Aishwarya11roy/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2470-removing-stars-from-a-string](https://github.com/Aishwarya11roy/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Greedy
 |  |
@@ -313,4 +316,8 @@ Happy coding! 😄
 | [1415-students-and-examinations](https://github.com/Aishwarya11roy/LeetCode/tree/master/1415-students-and-examinations) |
 | [2087-confirmation-rate](https://github.com/Aishwarya11roy/LeetCode/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Aishwarya11roy/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Aishwarya11roy/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
