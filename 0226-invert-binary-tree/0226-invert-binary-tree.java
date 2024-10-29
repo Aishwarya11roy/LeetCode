@@ -15,19 +15,18 @@
  */
 class Solution {
     public TreeNode invertTree(TreeNode root) {
-        if(root== null){
+
+        if(root == null){
             return null;
         }
         TreeNode node = new TreeNode(root.val);
         node.right = invertTree(root.left);
         node.left = invertTree(root.right);
         return node;
-
         
     }
 }
-/*
-Time complexity : 0(n) - where n is the number of nodes of the tree
-Space complexity : 0(h) -The space complexity depends on the height of the tree
-denoted as h (where h can vary from log(n) to n, depending on whether the tree is balanced or skewed).
-*/
+/**
+tc : o(n)
+sc: o(log n) - worst case o(n)
+ */
